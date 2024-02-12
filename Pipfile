@@ -8,6 +8,13 @@ openai = "*"
 pyairtable = "*"
 python-dotenv = "*"
 angle-emb = "*"
+selenium = "*"
+pillow = "*"
+google-auth = "*"
+google-auth-oauthlib = "*"
+google-auth-httplib2 = "*"
+google-api-python-client = "*"
+markdown = "*"
 
 [dev-packages]
 ipykernel = "*"
