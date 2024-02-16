@@ -1,0 +1,13 @@
+Subject: Valentines Day Mixer Updates!
+
+Hi {{name}},
+
+Hope you're doing well (especially your emails that you *cough* should send to your matches)! We won't be able to host a mixer this time, but we'd still love to hear your stories!
+
+Y'all should definetly meet up (pro points for serendipity) and let us know how it goes! We'd love to hear your stories and it would be crazy to see anything happen from this. Even if its non-romantic, I'm a huge proponent of new friendships—especially with people you might not usually approach (they usually have the craziest life stories).
+
+Please reply to this email with any funny screenshots, stories, or just selfies of you two together! We'll be sure to share them on our social media and website (with your permission of course).
+
+Thanks for participating and this was super fun to develop! If y'all have any feedback, we'd love to hear it + you can actually check out the code for the mixer here https://github.com/neelr/matcher (i'm happy to answer any questions about the code haha).
+
+- (@neelr)[https://neelr.dev]
